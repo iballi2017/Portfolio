@@ -127,6 +127,7 @@ a{
     margin: 30px 5px 0 0;
     background-color: #fff;
     float: right;
+    cursor: pointer;
 }
 .wrapper-middle{
     background: url("https://i.imgur.com/h27Rjh6.png");
