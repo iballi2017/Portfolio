@@ -80,6 +80,9 @@ a{
     border-radius: 5px;
     background-color: #336600;
 }
+button{
+    cursor: pointer;
+}
 .wrapper-middle{
     background:url("https://i.imgur.com/h27Rjh6.png");
     background-size: 100% 100%;
